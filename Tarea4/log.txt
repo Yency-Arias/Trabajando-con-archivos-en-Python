@@ -1,0 +1,5 @@
+INFO: Sistema iniciado
+ERROR: No se pudo conectar
+WARNING: Memoria baja
+ERROR: Archivo no encontrado
+INFO: Tarea completada
